@@ -12,6 +12,7 @@
 - Continuity/Handoff/Hotspot.
 - CPU/GPU and power saving.
 - USB with patched ACPI tables.
+- DRM (Apple Tv, most things in Safari so far...)
 
 ## What doesn't work:
 - Apps that use intel-specific instructions. These need to be patched manually.
