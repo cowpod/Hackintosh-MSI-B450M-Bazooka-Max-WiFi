@@ -20,9 +20,9 @@
 
 ## Installation
 
-Follow [Dortania guide for 
-Ryzen](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html), compare and merge 
+- Follow [Dortania guide for Ryzen](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html), compare and merge 
 changes in my EFI. Notably DeviceProperties>Add and ACPI>Add.
+- Don't forget to fill out PlatformInfo.
 
 ## If iMessage doesn't work
 - You are on Sonoma and AirportItlwm hasn't been updated past 
