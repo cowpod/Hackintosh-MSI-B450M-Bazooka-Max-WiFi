@@ -7,16 +7,16 @@
 - 1TB SiliconPower NVME (TRIM works by default)
 
 ## What works: [Almost Everything]
-- WiFi (Intel 3... chip).
+- WiFi/Bluetooth (Intel 3... chip).
 - iCloud, iMessage, etc.
 - Continuity/Handoff/Hotspot.
 - CPU/GPU and power saving.
-- USB with patched ACPI tables.
+- USB with patched ACPI tables (all external USB 2 ports disabled in favor of USB 3 ports).
 - DRM (Apple Tv, most things in Safari so far...)
 
 ## What doesn't work:
-- Apps that use intel-specific instructions. These need to be patched manually.
-- Weird bug where waking by USB requires two taps/clicks instead of one.
+- Apps that use intel-specific instructions. These need to be patched manually according to the dortania guide.
+- Weird bug where waking by USB requires two taps/clicks instead of one. Also fixed in the dortania guide.
 
 ## Installation
 
